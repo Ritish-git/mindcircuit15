@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: fbcont1
-          image: dochub777/devhub777:9
+          image: dochub777/devhub777:6
           ports:
             - containerPort: 8080
       
